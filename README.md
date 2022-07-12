@@ -15,4 +15,4 @@ using machine learning and openCV for pipe counting and classification
 
 ##Pipe counting
 
-![Screenshot](Screenshot 2022-07-12 214114.png)
+![Screenshot](6.png)
